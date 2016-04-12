@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+ruby '2.2.4'
 
 # Following code per Firehose instructions
 gem "rails_12factor", group: :production
